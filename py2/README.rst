@@ -33,7 +33,7 @@ Installation
 
 ::
 
-    sudo pip install bisos.bashStandaloneIcmSeed
+   sudo pip install bisos.bashStandaloneIcmSeed
 
 Usage
 =====
